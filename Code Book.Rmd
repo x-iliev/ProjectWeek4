@@ -2,7 +2,7 @@
 title: "Code Book"
 author: "Hristo Iliev"
 date: "2024-12-21"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
